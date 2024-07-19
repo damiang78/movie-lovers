@@ -21,5 +21,5 @@ jobs:
       with:
         dotnet-version: 8.0.x
     - name: CI
-      run: ./build.sh
+      run: ./build.cmd
       
